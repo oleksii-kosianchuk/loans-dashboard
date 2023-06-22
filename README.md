@@ -3,7 +3,7 @@ This Power BI dashboard is similar to the one I created during my work in a bank
 
 The original dashboard is connected to the database via SQL queries. However, for the purpose of this demonstration the SQL queries have been omitted and only their results represented in Excel tables are being shown.
 # Dashboard Location
-Please folow [this link](https://app.powerbi.com/view?r=eyJrIjoiMTkxMzZjMGYtYzRlMS00NmVhLWE3ODktYmI5NzMxOWZjYTg1IiwidCI6IjUwYjA5MzA5LTEzMzgtNDRiZi1hODRkLTc1ZTcxYTgzOWFlNSIsImMiOjl9) to the Microsoft Power BI Report Server where the dashboard has been published and where you may fully interact with it.
+Please folow [this link](https://app.powerbi.com/view?r=eyJrIjoiYzU0NTE2MzctZTZkYi00MWNmLTlhMGYtYWJjMzUzNGNlYjYxIiwidCI6IjUwYjA5MzA5LTEzMzgtNDRiZi1hODRkLTc1ZTcxYTgzOWFlNSIsImMiOjl9) to the Microsoft Power BI Report Server where the dashboard has been published and where you may fully interact with it.
 
 When you first open the dashboard, it is recommended that you click on the Hints button <img src="https://github.com/oleksii-kosianchuk/loans-dashboard/blob/main/Hints.png" width="19" height="19"> to see the possible interaction options.
 # Overview
